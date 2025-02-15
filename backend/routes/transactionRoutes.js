@@ -1,4 +1,3 @@
-// routes/transactionRoutes.js
 import { Router } from 'express';
 import transactionController from '../controllers/transactionController.js';
 import { authMiddleware } from '../middleware/authMiddleware.js';
