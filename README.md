@@ -104,9 +104,6 @@ Your application should now be accessible (e.g., frontend at `http://localhost:3
 - **Email:** `admin@abc.com`
 - **Password:** `admin123`
 
-> **Note:**  
-> In a production environment, ensure that passwords are hashed (e.g., using bcrypt) instead of stored in plain text.
-
 ---
 
 ## Future Enhancements
